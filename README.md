@@ -15,4 +15,5 @@ Tecnoliogias Utilizadas
  - JUPYTER NOTEBOOK
  - NUMPY
  - MATPLOTLIB
- 
+
+ - fim
